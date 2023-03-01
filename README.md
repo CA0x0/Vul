@@ -21,7 +21,7 @@ DeryTek Vigor2960 V1.5.1.4 was discovered to contain a command injection vulnera
 ![](img/21.jpg)
 ![](img/22.jpg)
 
-We can see that the os will get `parameter` Not filtering the '\`' . So, If  we can control the `QUERY_STRING`, it can be command injection.
+We can see that the os will get `parameter` Not filtering the '\`' . So, If  we can control the `parameter`, it can be command injection.
 
 ## 3. Recurring vulnerabilities and POC
 
