@@ -12,7 +12,7 @@
 ### 1.Product Information:
 
 DeryTek Vigor2960 V1.5.1.4 VPN Gateway
-![img/1.jpg]
+![](img/1.jpg)
 
 ### 2. Vulnerability details
 
