@@ -43,4 +43,4 @@ Connection: close
 action=commandTable&command=14&parameter=`touch test.txt`
 ```
 
-![](img/3.jpg)
+![](img/31.jpg)
